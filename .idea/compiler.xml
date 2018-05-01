@@ -8,9 +8,11 @@
         <outputRelativeToContentRoot value="true" />
         <module name="client" />
         <module name="cloud" />
+        <module name="dashboard" />
         <module name="feign" />
         <module name="ribbon" />
         <module name="server" />
+        <module name="zuul" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
